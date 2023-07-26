@@ -37,7 +37,9 @@ The site was built with PSQL
 
 ### Key Features <a name="key-features"></a>
 
-- N/A
+- Schema data to mimic diagram.
+- Altering code to establish relationships.
+- Indexes.
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
